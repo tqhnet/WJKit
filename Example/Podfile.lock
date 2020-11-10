@@ -17,7 +17,7 @@ PODS:
   - Masonry (1.1.0)
   - MJRefresh (3.5.0)
   - SVProgressHUD (2.0.4)
-  - WJKit (0.1.0):
+  - WJTKit (0.1.0):
     - AFNetworking
     - Masonry
     - MJRefresh
@@ -28,7 +28,7 @@ PODS:
   - YYModel (1.0.4)
 
 DEPENDENCIES:
-  - WJKit (from `../`)
+  - WJTKit (from `../`)
 
 SPEC REPOS:
   trunk:
@@ -40,7 +40,7 @@ SPEC REPOS:
     - YYModel
 
 EXTERNAL SOURCES:
-  WJKit:
+  WJTKit:
     :path: "../"
 
 SPEC CHECKSUMS:
@@ -48,10 +48,10 @@ SPEC CHECKSUMS:
   Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
   MJRefresh: 6afc955813966afb08305477dd7a0d9ad5e79a16
   SVProgressHUD: bfde85ed6c573ea802b9cb37894ed9b629034f1b
-  WJKit: 4dc6a984e519cfff2e67414479d5edf88277b432
+  WJTKit: 434b6ee961dbc6bdffd722556a094b5817074b01
   YYCache: 8105b6638f5e849296c71f331ff83891a4942952
   YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
 
-PODFILE CHECKSUM: 6b8fc151199462799ffa73aa54711ef6e7c37914
+PODFILE CHECKSUM: 610064cc6822862113faf6c5d7b5a210d6bfff56
 
 COCOAPODS: 1.9.3
