@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'WJKit_Example' do
+  pod 'WJKit', :path => '../'
+
+  target 'WJKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
